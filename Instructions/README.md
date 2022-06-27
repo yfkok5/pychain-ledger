@@ -14,4 +14,4 @@ You’ll make the following updates to the provided Python file for this assignm
 
 4. Test the PyChain Ledger by Storing Records.
 
-![Homework Submission](Images/pychain_ss.png)
+![alt=""](Images/pychain_ss.PNG)
